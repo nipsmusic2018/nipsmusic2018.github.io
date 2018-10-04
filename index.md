@@ -1,9 +1,9 @@
 ## NIPS 2018 Banquet Music
 
-# Overview
-For the NIPS 2018 Conference in Montreal, we have decided to organize
-an open call for musicians to perform at the Banquet. Selected musical acts
-will be posted here once the selection process has completed.
+# Overview For the [NIPS 2018 Conference](https://nips.cc) in
+Montreal, we have decided to organize an open call for musicians to
+perform at the Banquet. Selected musical acts will be posted here once
+the selection process has completed.
 
 # Call for Particiaption
 Do you perform music and are you registered for NIPS?  If so, please
