@@ -1,13 +1,13 @@
-## NIPS 2018 Banquet Music
+# NIPS 2018 Banquet Music
 
-# Overview
+## Overview
 
 For the [NIPS 2018 Conference](https://nips.cc) in Montreal, the
 organizers have decided to hold an open call for musicians to perform
 at the Banquet. Selected musical acts will be posted here once the
 selection process has completed.
 
-# Call for Particiaption
+## Call for Particiaption
 
 Do you perform music and are you registered for NIPS?  If so, please
 consider submitting a sample of your work to our NIPS 2018 Call for
@@ -44,9 +44,9 @@ resources.
 Deadline for submissions is **Monday October 29th at 9:00AM Pacific
 time**, leaving four weekends to pull this together (we hope it’s fun).
 
-## Organizers
+# Organizers
 
-# Selection Committee
+## Selection Committee
 
 [Pablo Castro](https://twitter.com/), Google Research
 
@@ -58,7 +58,7 @@ Gergely Neu (Universitat Pompeu Fabra)
 
 Jason Weston (FAIR)
 
-# NIPS 2018 Party Chair
+## NIPS 2018 Party Chair
 [Douglas Eck](https://twitter.com/douglas_eck), Google Research
 
 
