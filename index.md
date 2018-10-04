@@ -51,7 +51,7 @@ time**, leaving four weekends to pull this together (we hope it’s fun).
 
 ### Selection Committee
 
-[Pablo Castro](https://twitter.com/pcastr), Google Research
+[Pablo Samuel Castro](https://twitter.com/pcastr), Google Research
 
 [Rebecca Fiebrink](https://twitter.com/RebeccaFiebrink), Goldsmiths University of London
 
