@@ -13,7 +13,9 @@ are unfortunately unable to provide registrations via this call.
 Do you perform music and are you registered for NIPS?  If so, please
 consider submitting a sample of your work to our NIPS 2018 Call for
 Musicians. If you are selected, you will be invited to perform onstage
-at the official NIPS Banquet.
+at the official NIPS Banquet alongside other researchers from the NIPS
+community and, perhaps, some surprise invited guests!
+
 
 Based on the submissions we receive, a selection committee will build
 a sequence of diverse acts ranging from the quiet to the loud. We
