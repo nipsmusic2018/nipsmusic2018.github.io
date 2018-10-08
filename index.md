@@ -20,9 +20,9 @@ community and, perhaps, some surprise invited guests!
 Based on the submissions we receive, a selection committee will build
 a sequence of diverse acts ranging from the quiet to the loud. We
 define “music” as broadly as possible! Anything that makes your hips
-move, engages your mind, and/or tickles your eardrums.  Our goal is to
-produce an evening of engaging, diverse researcher-generated music as
-a fun backdrop for the NIPS Banquet.
+move, engages your mind, and/or tickles your eardrums. VJ sets are
+also welcome! Our goal is to produce an evening of engaging, diverse
+researcher-generated music as a fun backdrop for the NIPS Banquet.
 
 To submit, please send an email to **nips2018music@gmail.com** addressing
 the following:
@@ -59,7 +59,7 @@ time**, leaving a few weekends to pull this together (we hope it’s fun).
 
 Gergely Neu (Universitat Pompeu Fabra)
 
-Jason Weston (FAIR)
+[Jason Weston](https://twitter.com/jaseweston) (FAIR)
 
 ### NIPS 2018 Party Chair
 [Douglas Eck](https://twitter.com/douglas_eck), Google Research
