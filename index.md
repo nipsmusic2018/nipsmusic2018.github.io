@@ -1,18 +1,18 @@
-# NIPS 2018 Banquet Music
+# NIPS 2018 Banquet Performances
 
 ## Overview
 
 For the [NIPS 2018 Conference](https://nips.cc) in Montreal, the
-organizers have decided to hold an open call for musicians to perform
-at the Banquet. Selected musical acts will be posted here once decisions are
+organizers have decided to hold an open call for musicians and VJs to perform
+at the Banquet. Selected acts will be posted here once decisions are
 made. **This call is only open to those who are registered for NIPS 2018.** We
 are unfortunately unable to provide registrations via this call.
 
 ## Call for Particiaption
 
-Do you perform music and are you registered for NIPS?  If so, please
+Do you perform music or visuals (VJing) and are you registered for NIPS?  If so, please
 consider submitting a sample of your work to our NIPS 2018 Call for
-Musicians. If you are selected, you will be invited to perform onstage
+Performances. If you are selected, you will be invited to perform onstage
 at the official NIPS Banquet alongside other researchers from the NIPS
 community and, perhaps, some surprise invited guests!
 
@@ -21,7 +21,8 @@ Based on the submissions we receive, a selection committee will build
 a sequence of diverse acts ranging from the quiet to the loud. We
 define “music” as broadly as possible! Anything that makes your hips
 move, engages your mind, and/or tickles your eardrums. VJ sets are
-also welcome! Our goal is to produce an evening of engaging, diverse
+also invited, we will try to fit VJs to the music they best suit.
+Our goal is to produce an evening of engaging, diverse
 researcher-generated music as a fun backdrop for the NIPS Banquet.
 
 To submit, please send an email to **nips2018music@gmail.com** addressing
@@ -35,7 +36,7 @@ must all be registered for NIPS 2018.
 what you’ll perform (YouTube videos of previous performances,
 SoundCloud audio examples, etc).
 
-3. Any details you want to add about why your music belongs at
+3. Any details you want to add about why your performance belongs at
 NIPS. We want to tell a story about the deep musical talent of the
 NIPS Research community.
 
