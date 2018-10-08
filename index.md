@@ -45,7 +45,7 @@ will try to accommodate more esoteric requests, but have limited
 resources.
 
 Deadline for submissions is **Monday October 29th at 9:00AM Pacific
-time**, leaving four weekends to pull this together (we hope it’s fun).
+time**, leaving a few weekends to pull this together (we hope it’s fun).
 
 # Organizers
 
