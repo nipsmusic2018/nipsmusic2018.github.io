@@ -8,7 +8,7 @@ at the Banquet. Selected acts will be posted here once decisions are
 made. **This call is only open to those who are registered for NIPS 2018.** We
 are unfortunately unable to provide registrations via this call.
 
-## Call for Particiaption
+## Call for Participation
 
 Do you perform music or visuals (VJing) and are you registered for NIPS?  If so, please
 consider submitting a sample of your work to our NIPS 2018 Call for
@@ -45,7 +45,7 @@ gear as needed (PA, drums, guitars, projection for VJ sets, etc.) and
 will try to accommodate more esoteric requests, but have limited
 resources.
 
-Deadline for submissions is **Monday October 29th at 9:00AM Pacific
+Deadline for submissions is **Monday, October 29th at 9:00 AM Pacific
 time**, leaving a few weekends to pull this together (we hope it’s fun).
 
 # Organizers
