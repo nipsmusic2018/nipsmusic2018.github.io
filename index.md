@@ -1,8 +1,9 @@
 # NIPS 2018 Banquet Performances
 
-## News
-Due to popular demand, the deadline for submissions has been
-extended to **Monday November 12th at 9:00AM Pacific**!
+
+<font color="maroon">Due to popular demand, the deadline for
+submissions has been extended to **Monday November 12th at 9:00AM Pacific**!
+</font>
 
 ## Overview
 
