@@ -1,5 +1,9 @@
 # NIPS 2018 Banquet Performances
 
+## News
+Due to popular demand, the deadline for submissions has been
+extended to **Monday November 12th at 9:00AM Pacific**!
+
 ## Overview
 
 For the [NIPS 2018 Conference](https://nips.cc) in Montreal, the
@@ -45,7 +49,7 @@ gear as needed (PA, drums, guitars, projection for VJ sets, etc.) and
 will try to accommodate more esoteric requests, but have limited
 resources.
 
-Deadline for submissions is **Monday October 29th at 9:00AM Pacific
+Deadline for submissions is **Monday November 12th at 9:00AM Pacific
 time**, leaving a few weekends to pull this together (we hope it’s fun).
 
 # Organizers
