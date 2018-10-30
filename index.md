@@ -3,7 +3,7 @@
 
 <span style="color:maroon">Due to popular demand, the deadline for
 submissions has been extended to <em>Monday November 12th at 9:00AM
-Pacific</en>!
+Pacific</em>!
 </span>
 
 ## Overview
